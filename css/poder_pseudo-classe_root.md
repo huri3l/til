@@ -1,4 +1,4 @@
-# O poder da pseudo-classe Root
+# O Poder da Pseudo-Classe Root
 
 Vasculhando um pouco sobre variáveis no CSS, descobri que a pseudo-classe `:root` serve para mais coisas do que eu imaginava. No raso conhecimento que tinha, imaginei que servisse somente para declarar variáveis, então fui mais a fundo. <br>
 Devido ao significado de `root` (raíz), essa pseudo-classe tem o poder de mexer com todos os elementos da tela, já que é a **raíz da árvore de elementos distribuídos pela página**. <br>

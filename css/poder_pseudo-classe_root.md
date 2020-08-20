@@ -1,5 +1,7 @@
 # O Poder da Pseudo-Classe Root
 
+<img href="#" align="center" src="https://img.icons8.com/android/50/000000/clock.png" alt="relogio" height="20" width="20"/> 4 minutos de leitura.
+
 Vasculhando um pouco sobre variáveis no CSS, descobri que a pseudo-classe `:root` serve para mais coisas do que eu imaginava. No raso conhecimento que tinha, imaginei que servisse somente para declarar variáveis, então fui mais a fundo. <br>
 Devido ao significado de `root` (raíz), essa pseudo-classe tem o poder de mexer com todos os elementos da tela, já que é a **raíz da árvore de elementos distribuídos pela página**. <br>
 Tendo isso em mente, é possível fazer estilizações como essa:

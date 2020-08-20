@@ -14,5 +14,5 @@ Tendo isso em mente, é possível fazer estilizações como essa:
     }
 ```
 Tal alteração irá fazer com que todos os elementos de texto da página tenham fonte Arial e cor verde. É uma infinidade de possibilidades! Isso com certeza irá aumentar minha produtividade e espero que ajude a sua também. <br>
-*Observação: a tag do elemento é indiferente, (p, h1, a...), sendo texto, a alteração será aplicada.*
+*Observação: a tag do elemento é indiferente, (p, h1, a...), sendo texto, a alteração será aplicada.* <br>
 Para conferir um exemplo, [clique aqui](https://codepen.io/huri3l/pen/WNwGgvV).

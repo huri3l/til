@@ -11,3 +11,4 @@ Esse repositório terá como objetivo compartilhar o conhecimento diário que ob
 ---
 ### CSS
 * [Header Responsivo com Flexbox](css/flexbox_em_header-responsivo.md)
+* [O poder da pseudo-classe Root](css/root.md)

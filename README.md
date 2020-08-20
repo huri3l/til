@@ -1,7 +1,7 @@
 # Today I Learned
 > _Hoje eu aprendi_ <br>
 
-Esse repositório terá como objetivo compartilhar o conhecimento diário que obtive.
+Nesse repositório irei compartilhar o que aprendi durante meus estudos diários.
 
 ---
 

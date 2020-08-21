@@ -1,7 +1,8 @@
 # Header Responsivo com Flexbox
 
-<img href="#" align="center" src="https://img.icons8.com/android/50/000000/clock.png" alt="relogio" height="20" width="20"/> 5 minutos de leitura. 19/08/2020
 
+#### <img href="#" align="center" src="https://img.icons8.com/android/50/000000/clock.png" alt="relogio" height="20" width="20"/> 5 min. de leitura | 19/08/2020 <br>
+ <br>
 Unindo meus conhecimentos em CSS e JavaScript, fiz um header responsivo com o objetivo de praticar bons hábitos de código. <br>
 O uso de `porcentagem` e `recursos nativos da linguagem` facilitam muito na responsividade, retirando a necessidade do uso de `media query` em todos os elementos. <br>
 Um bom exemplo disso é especialmente do próprio `display: flex`: <br>

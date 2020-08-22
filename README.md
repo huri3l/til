@@ -16,3 +16,4 @@ Nesse repositório irei compartilhar o que aprendi durante meus estudos diários
 
 ### JavaScript
 * [A importância do package.json](js/importancia_package.json.md)
+* [Desestruturação: o poder da produtividade](js/desestruturacao_produtividade.md)

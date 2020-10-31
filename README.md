@@ -21,3 +21,7 @@ Nesse repositório irei compartilhar o que aprendi durante meus estudos diários
 
 ### MongoDB
 * [Criar, Configurar e Conectar MongoDB à uma API](mongodb/criar_configurar_mongodb.md)
+
+### Conceitos Gerais da Web
+* [Como Funciona a Internet](conceitos_web/a_internet.md)
+* [Status HTTP](conceitos_web/status_http.md)

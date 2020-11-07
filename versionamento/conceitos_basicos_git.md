@@ -17,7 +17,6 @@ Logo após a instalação do [Git](https://git-scm.com/downloads/), é important
 ```git
 git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
-
 ```
 
 Esse "usuário" será usado para registrar quais *commits* foram feitos por você no projeto, dessa forma:

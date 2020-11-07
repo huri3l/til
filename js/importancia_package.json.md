@@ -1,7 +1,5 @@
 # A importância do package.json
 
-#### 6 min. de leitura | 20/08/2020 <br>
-
 Ao iniciar meus estudos em cima do `Node`¹ e das novidades apresentadas a partir do `ES6+`², me deparei com um arquivo chamado `package.json`. Logo de cara, pude ver qual era sua função, porém fui ainda mais a fundo para entender o que era possível fazer com ele.
 
 **O arquivo em formato `JSON`³ possibilita guardar várias informações distintas sobre o seu projeto,** como o nome, a versão e as dependências do mesmo. Segue abaixo um exemplo:

@@ -1,7 +1,5 @@
 # Como Funciona a Internet
 
-#### 3 min. de leitura | 31/10/2020
-
 ## Um breve resumo
 Não pretendo abordar a internet como um todo e nem tudo que aprendi, apenas estou registrando aqui um breve resumo a respeito.
 

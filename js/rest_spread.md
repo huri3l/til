@@ -1,7 +1,5 @@
 # Rest e Spread
 
-#### 4 min. de leitura | 25/08/2020 <br>
-
 São dois conceitos similares que podem ajudar muito na programação. Descobri a importância desses operadores ao precisar reduzir meu código em PHP, porém lembrei da existência deles em JavaScript e resolvi praticar um pouco.
 
 Segue um exemplo:

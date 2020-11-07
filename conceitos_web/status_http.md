@@ -1,7 +1,5 @@
 # Status HTTP
 
-#### 3 min. de leitura | 12/09/2020 <br>
-
 Os códigos de status HTTP informam se uma requisição foi corretamente concluída. As respostas são inclusas em grupos, sendo eles:
 
 * **100-199** (Informação) - Solicitação aceita ou processo em andamento;

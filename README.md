@@ -8,6 +8,7 @@ Nesse repositório irei compartilhar o que aprendi durante meus estudos diários
 ## Categorias:
 * [CSS](#css)
 * [JavaScript](#javascript)
+* [Conceitos Gerais da Web](#conceitos-gerais-da-web)
 
 ---
 ### CSS
@@ -25,3 +26,4 @@ Nesse repositório irei compartilhar o que aprendi durante meus estudos diários
 ### Conceitos Gerais da Web
 * [Como Funciona a Internet](conceitos_web/a_internet.md)
 * [Status HTTP](conceitos_web/status_http.md)
+* [Front-end, Back-end e Fullstack](conceitos_web/front_back_fullstack.md)

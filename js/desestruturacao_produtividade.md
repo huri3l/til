@@ -1,7 +1,5 @@
 # Desestruturação: o poder da produtividade
 
-#### 4 min. de leitura | 21/08/2020 <br>
-
 As possibilidades que o ES6+ trouxe para o JavaScript me surpreendem mais a cada dia! Estava estudando sobre, pois, um passarinho me contou que muitas coisas adicionadas facilitam muito na produtividade e também deixam o código limpo. Como passarinhos são duvidosos, fui pesquisar a respeito e pratiquei um pouco de *destructuring assignment*.
 
 A desestruturação é uma maneira alternativa à convencional usada para obter dados de objetos e vetores (arrays) e colocá-los em variáveis, de forma rápida e com um código mais enxuto. Segue um exemplo:

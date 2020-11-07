@@ -1,7 +1,5 @@
 # Header Responsivo com Flexbox
 
-
-#### 19/08/2020 | 3 min. de leitura <br>
 Unindo meus conhecimentos em CSS e JavaScript, fiz um header responsivo com o objetivo de praticar bons hábitos de código. <br>
 O uso de `porcentagem` e `recursos nativos da linguagem` facilitam muito na responsividade, retirando a necessidade do uso de `media query` em todos os elementos. <br>
 Um bom exemplo disso é especialmente do próprio `display: flex`: <br>

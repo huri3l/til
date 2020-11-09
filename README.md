@@ -9,6 +9,7 @@ Nesse repositório irei compartilhar o que aprendi durante meus estudos diários
 * [Conceitos Gerais da Web](#conceitos-gerais-da-web)
 * [CSS](#css)
 * [Git](#git)
+* [HTML](#html)
 * [JavaScript](#javascript)
 * [MongoDB](#mongodb)
 
@@ -25,6 +26,9 @@ Nesse repositório irei compartilhar o que aprendi durante meus estudos diários
 ### Git
 * [Arquivos Específicos Para Commit](git/adicionar_arquivos_especificos_commit.md)
 * [Conceitos Básicos de Git](git/conceitos_basicos_git.md)
+
+### HTML
+* [Caracteres, Símbolos e Emojis](html/caracteres_simbolos_emojis.md)
 
 ### JavaScript
 * [A importância do package.json](js/importancia_package.json.md)
